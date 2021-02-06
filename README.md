@@ -1,2 +1,2 @@
 # Cruise
-Easy to use app
+Easy to use news app
